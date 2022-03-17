@@ -20,17 +20,11 @@ function Contact(props) {
                             <p className="text-2xl lg:text-4xl py-4">Information</p>
                             <div className="text-base lg:text-xl space-y-3">
                               <p>
-                              <span className="ml-0 underline">Tên đề tài:</span><span className="italic ">Đề tài xây dựng website bán đồ ăn nhanh trên nền tảng Nodejs(express) và MongoDB </span>
+                              <span className="ml-0 underline">Tên đề tài:</span><span className="italic ">Đề tài xây dựng website bán đồ ăn </span>
                               </p>
-                              <p className="font-bold">Nhóm 1</p>
-                              <p>Thành viên nhóm:</p>
-                              <ul>
-                                <li>1. Đỗ Bá Hoàn (Trưởng nhóm)</li>
-                                <li>2. Nguyễn Tiến Hà</li>
-                                <li>3. Quách Ngọc Hà</li>
-                                <li>4. Nguyễn Gia Thịnh</li>
-                                <li>5. Vũ Đình Đoàn</li>
-                              </ul>
+                              <p>Người thực hiện đề tài: Đỗ Bá Hoàn</p>
+                              <p>GVHD: ThS Vũ Đức Huy</p>
+                              <p>Người hướng dẫn ở doanh nghiệp: Nguyễn Văn Đạt</p>
                             </div>
                           </div>
                           <div className="flex flex-wrap items-center lg:w-1/2">
